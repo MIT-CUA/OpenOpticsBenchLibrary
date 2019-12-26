@@ -1,0 +1,24 @@
+holes: []
+metadata:
+  name: lens_holder_lmr05
+  original_model_fn: thorlabs/LMR05-Solidworks.stl
+  vendor: thorlabs
+model:
+  filename: lib/thorlabs/lens_holder_lmr05.stl
+  multmatrix:
+  - - 0.0
+    - 0.0
+    - 1000.0
+    - 0.0
+  - - 1000.0
+    - 0.0
+    - 0.0
+    - 0.0
+  - - 0.0
+    - 1000.0
+    - 0.0
+    - 0.0
+  - - 0.0
+    - 0.0
+    - 0.0
+    - 1.0
