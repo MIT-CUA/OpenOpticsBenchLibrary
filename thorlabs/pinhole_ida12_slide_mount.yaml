@@ -226,7 +226,7 @@ pockets:
     - 0.0
     - 0.0
     - 1.0
-  rounded_dia: 8.0
+  rounded_dia: 6.5
   size:
   - 8
   - 21
