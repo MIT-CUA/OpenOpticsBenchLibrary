@@ -47,27 +47,6 @@ metadata:
   original_model_fn: thorlabs/KM100PM-Solidworks-modified.stl
   vendor: thorlabs
 model:
-  extra_geometry:
-  - dia: 6.25
-    height: 7.8
-    multmatrix:
-    - - 0.0
-      - -1.0
-      - 0.0
-      - -2.330000000000009
-    - - 0.0
-      - 0.0
-      - -1.0
-      - -32.99
-    - - 1.0
-      - 0.0
-      - 0.0
-      - 1.5199999999999996
-    - - 0.0
-      - 0.0
-      - 0.0
-      - 1.0
-    otype: cylinder
   filename: lib/thorlabs/isomet_on_mount_km100pm.stl
   multmatrix:
   - - 0.0
